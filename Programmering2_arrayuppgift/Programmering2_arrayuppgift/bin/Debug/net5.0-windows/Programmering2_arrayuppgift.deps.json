@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programmering2_arrayuppgift/1.0.0": {
+        "runtime": {
+          "Programmering2_arrayuppgift.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programmering2_arrayuppgift/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
