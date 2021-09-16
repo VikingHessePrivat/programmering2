@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "programmering2_miniräknare/1.0.0": {
+        "runtime": {
+          "programmering2_miniräknare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "programmering2_miniräknare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
