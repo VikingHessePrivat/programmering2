@@ -1,0 +1,16 @@
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.exe
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.deps.json
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.runtimeconfig.json
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.runtimeconfig.dev.json
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.dll
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\ref\programmering2_övning.dll
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\bin\Debug\net5.0\programmering2_övning.pdb
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.csproj.AssemblyReference.cache
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.AssemblyInfoInputs.cache
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.AssemblyInfo.cs
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.csproj.CoreCompileInputs.cache
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.dll
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\ref\programmering2_övning.dll
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.pdb
+C:\Users\viking.hesse\source\repos\programmering2_övning\programmering2_övning\obj\Debug\net5.0\programmering2_övning.genruntimeconfig.cache
